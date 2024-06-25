@@ -1,5 +1,12 @@
 # Criação de Podcast utilizando IA
-![Podcast Image](/outputs/img/capa.jpg)
+
+
+<br>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github.com/rosanper/Podcast_Programadores_do_Multiverso/assets/86617390/0f2339ad-cfa8-4c57-9bf8-4337cd35bc25" width="300" alt="Podcast Image">
+  <p> <strong> *Podcast - Programadores do Multiverso </strong> </p>
+</div>
+<br>
 
 Bem-vindo ao repositório do projeto **"Criação de Podcast utilizando IA"**! Este projeto é parte do Bootcamp Santander 2024 - Fundamentos de IA para Devs, ministrado pela [DIO](https://www.dio.me/).
 
@@ -7,7 +14,8 @@ Bem-vindo ao repositório do projeto **"Criação de Podcast utilizando IA"**! E
 
 Este repositório documenta a criação de um podcast utilizando diversas ferramentas de Inteligência Artificial. Desde a concepção do nome até a geração do áudio e imagem do podcast, cada etapa foi desenvolvida com o apoio de tecnologias avançadas de IA. O objetivo é demonstrar como essas tecnologias podem ser integradas para criar conteúdo digital de alta qualidade de forma eficiente e criativa.
 
-- Escute o podcast clicando [aqui](/episodios/Programadores%20do%20Multiverso%20-%20Ep.%201.mp4);
+- Escute o podcast clicando [aqui](https://www.youtube.com/watch?v=qgRUflLpe40);
+- Faça o download do podccast clicando [aqui](/episodios/Programadores%20do%20Multiverso%20-%20Ep.%201.mp4)
 - Veja o processo de criação clicando [aqui](/prompts/prompt_criacao.md).
 
 ## Tecnologias Utilizadas
@@ -42,6 +50,9 @@ Este repositório documenta a criação de um podcast utilizando diversas ferram
    - A imagem representa os personagens principais sendo puxados por um portal do tempo, emergindo da tela de um computador.
    - A descrição visual foi cuidadosamente formulada e traduzida para o inglês para melhor precisão na geração.
 
+<br>
+<br>
+
 Todo o processo de criação, assim como os prompts criados podem ser vistos [aqui](/prompts/prompt_criacao.md)
 
 Todos os resultados dos comandos nas ferramentas podem ser obtidos [aqui](/outputs/)
@@ -66,9 +77,8 @@ Este repositório está organizado da seguinte forma:
 
 Este repositório é um projeto de aprendizado, e todas as sugestões e contribuições são bem-vindas. Se você tiver ideias ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-
-
-
+<br>
+<br>
 
 ---
 
